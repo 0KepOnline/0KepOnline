@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?><sporemodel>
+  <formatversion>18</formatversion>
+  <properties>
+    <modeltype>0x47c10953</modeltype>
+    <zcorpscore>4</zcorpscore>
+  </properties>
+  <blocks count="34">
+    <blockref>
+      <blockid>0x40636000, 0xd86e4606</blockid>
+      <transform>
+        <scale>1.299999</scale>
+        <position>0,0,0.0122013</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="4">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.449999,0.449999,0.449999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <childlist count="3">
+        <childid>33</childid>
+        <childid>31</childid>
+        <childid>26</childid>
+      </childlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0.200000</weight>
+        <weight channel="0x2e6521f4">0.200000</weight>
+        <weight channel="0x7cc96c02">0.597442</weight>
+        <weight channel="0x2d3bfa19">0.597442</weight>
+        <weight channel="0xd02751de">0.427955</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xaf877f25</blockid>
+      <transform>
+        <scale>1.299999</scale>
+        <position>-2.015748,-3.656860,1.163753</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0</weight>
+        <weight channel="0x2e6521f4">0</weight>
+        <weight channel="0x7cc96c02">0.354893</weight>
+        <weight channel="0x2d3bfa19">0.354893</weight>
+        <weight channel="0xd02751de">0.330000</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xaf877f25</blockid>
+      <transform>
+        <scale>1.206066</scale>
+        <position>-2.003571,-3.785346,1.459347</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <childlist count="18">
+        <childid>20</childid>
+        <childid>19</childid>
+        <childid>18</childid>
+        <childid>17</childid>
+        <childid>16</childid>
+        <childid>15</childid>
+        <childid>14</childid>
+        <childid>13</childid>
+        <childid>12</childid>
+        <childid>11</childid>
+        <childid>10</childid>
+        <childid>9</childid>
+        <childid>8</childid>
+        <childid>7</childid>
+        <childid>6</childid>
+        <childid>5</childid>
+        <childid>4</childid>
+        <childid>3</childid>
+      </childlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0</weight>
+        <weight channel="0x2e6521f4">0</weight>
+        <weight channel="0x7cc96c02">0.364013</weight>
+        <weight channel="0x2d3bfa19">0.364013</weight>
+        <weight channel="0xd02751de">0.330000</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.003578,-4.757844,4.855411</position>
+        <triangledirection>-1.19248e-8,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,1.19248e-8,0</row0>
+          <row1>-1.19248e-8,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.803096,-4.757850,4.824829</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.521432,-4.757841,5.602617</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-1.113977,-4.757845,4.770664</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-1.487221,-4.757850,5.560771</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.476546,-4.757850,3.833366</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-1.512939,-4.757845,3.827485</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-3.086652,-4.757845,4.668680</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-0.805996,-4.757845,4.694498</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x6faf29a9</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.003578,-4.757845,6.437276</position>
+        <triangledirection>-1.19248e-8,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,1.19248e-8,0</row0>
+          <row1>-1.19248e-8,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.003578,-4.757845,3.100517</position>
+        <triangledirection>-1.18729e-8,0.995648,0.0931878</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1.000000,1.19248e-8,1.33226e-15</row0>
+          <row1>-1.17878e-8,0.988508,0.151163</row1>
+          <row2>1.80260e-9,-0.151163,0.988508</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-3.354228,-4.757850,3.699194</position>
+        <triangledirection>0,0.998293,-0.0583886</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-0.817805,-4.757845,3.561699</position>
+        <triangledirection>0,0.998293,-0.0583886</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-3.206537,-4.757850,5.746195</position>
+        <triangledirection>0,0.998293,-0.0583886</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-0.956179,-4.757845,5.730352</position>
+        <triangledirection>0,0.998293,-0.0583886</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-3.824642,-4.757841,4.671516</position>
+        <triangledirection>0.137044,0.988842,-0.0583891</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.990532,-0.137278,2.84217e-14</row0>
+          <row1>0.137278,0.990532,-4.87428e-7</row1>
+          <row2>6.69132e-8,4.82813e-7,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-0.251600,-4.757854,4.597860</position>
+        <triangledirection>0,0.998293,-0.0583886</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.998293,-0.0583886</userorientation_row1>
+          <userorientation_row2>0,0.0583886,0.998293</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x327dfabf</paintid>
+          <color1>1,1,1</color1>
+          <color2>0,0,0</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>-2.003577,-4.757846,4.678312</position>
+        <triangledirection>-1.19248e-8,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,1.19248e-8,0</row0>
+          <row1>-1.19248e-8,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.887272</weight>
+        <weight channel="0xd02751de">0.143474</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xaf877f25</blockid>
+      <transform>
+        <scale>1.299999</scale>
+        <position>4.310213,-3.725734,1.334342</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <childlist count="4">
+        <childid>25</childid>
+        <childid>24</childid>
+        <childid>23</childid>
+        <childid>22</childid>
+      </childlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0</weight>
+        <weight channel="0x2e6521f4">0</weight>
+        <weight channel="0x7cc96c02">0.0644193</weight>
+        <weight channel="0x2d3bfa19">0.0644193</weight>
+        <weight channel="0xd02751de">0.199159</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x276b0d4e</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>5.645750,-4.714560,5.541543</position>
+        <triangledirection>0.999969,0.00785920,0.000111245</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.936069,0.351813,-1.45519e-11</row0>
+          <row1>-0.351813,0.936069,-0.000322969</row1>
+          <row2>-0.000113624,0.000302321,0.999999</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>-0.344446,-0.938806,0</userorientation_row0>
+          <userorientation_row1>0.938806,-0.344446,0</userorientation_row1>
+          <userorientation_row2>0,0,1</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000002</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.500312</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x276b0d4e</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>5.625691,-4.732115,4.509595</position>
+        <triangledirection>0.999624,0.0121384,0.0245528</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.860176,0.509995,-2.23517e-8</row0>
+          <row1>-0.502765,0.847980,-0.167795</row1>
+          <row2>-0.0855751,0.144334,0.985821</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>-0.498108,-0.866942,-0.0172966</userorientation_row0>
+          <userorientation_row1>0.866044,-0.496403,-0.0595863</userorientation_row1>
+          <userorientation_row2>0.0430718,-0.0446600,0.998073</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000002</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.500312</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x276b0d4e</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>5.640204,-4.719405,3.400136</position>
+        <triangledirection>0.999293,0.0217967,0.0306360</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.860177,0.509995,0</row0>
+          <row1>-0.502764,0.847980,0.167799</row1>
+          <row2>0.0855767,-0.144336,0.985821</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>-0.480305,-0.876973,-0.0149849</userorientation_row0>
+          <userorientation_row1>0.870685,-0.478784,0.112571</userorientation_row1>
+          <userorientation_row2>-0.105897,0.0410216,0.993530</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000002</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.500312</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x276b0d4e</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>5.648015,-4.712567,2.269399</position>
+        <triangledirection>0.999693,0.0105405,0.0223872</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.936069,0.351813,-7.27595e-12</row0>
+          <row1>-0.351813,0.936069,-0.000322969</row1>
+          <row2>-0.000113625,0.000302321,0.999999</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>-0.341979,-0.939704,0.00234876</userorientation_row0>
+          <userorientation_row1>0.939491,-0.341846,0.0222768</userorientation_row1>
+          <userorientation_row2>-0.0201306,0.00982486,0.999749</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000002</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.500312</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1095</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>4.302702,-3.712247,7.718324</position>
+        <triangledirection>0,0.999998,0.00201579</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>0.999999,0,0</row0>
+          <row1>0,0.997952,-0.0639579</row1>
+          <row2>0,0.0639579,0.997952</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>1,0,0</userorientation_row0>
+          <userorientation_row1>0,0.997821,0.0659695</userorientation_row1>
+          <userorientation_row2>0,-0.0659695,0.997821</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>0.290196,0.643137,0.819607</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000006</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>0.290196,0.643137,0.819607</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.967939</weight>
+        <weight channel="0xd02751de">0.148847</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2b</blockid>
+      <transform>
+        <scale>0.377192</scale>
+        <position>4.178075,-4.591827,7.645041</position>
+        <triangledirection>-0.570725,-0.140431,-0.809043</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.948337,-0.317264</row1>
+          <row2>0,0.317264,0.948337</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>0.114099,0.990961,0.0705443</userorientation_row0>
+          <userorientation_row1>-0.570725,0.123503,-0.811800</userorientation_row1>
+          <userorientation_row2>-0.813175,0.0523647,0.579658</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000011</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2b</blockid>
+      <transform>
+        <scale>0.377192</scale>
+        <position>4.317532,-4.530302,7.805229</position>
+        <triangledirection>0.252694,-0.0438501,0.966552</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.999999,-0.000728440</row1>
+          <row2>0,0.000728440,0.999999</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>0.173638,0.984809,-1.11758e-8</userorientation_row0>
+          <userorientation_row1>0.252694,-0.0445542,0.966519</userorientation_row1>
+          <userorientation_row2>0.951837,-0.167825,-0.256591</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000011</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xaf877f25</blockid>
+      <transform>
+        <scale>1.038071</scale>
+        <position>7.889221,0,1.146812</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <childlist count="1">
+        <childid>30</childid>
+      </childlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0.268520</weight>
+        <weight channel="0x2e6521f4">0.268520</weight>
+        <weight channel="0x7cc96c02">3.38609e-7</weight>
+        <weight channel="0x2d3bfa19">3.38609e-7</weight>
+        <weight channel="0xd02751de">0.291501</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xaf877f21</blockid>
+      <transform>
+        <scale>0.661903</scale>
+        <position>6.560459,0.0502686,6.204197</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="1">
+        <paint>
+          <paintregion>0x00000009</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501960,0.501960,0.501960</color1>
+          <color2>0.699999,0.699999,0.699999</color2>
+        </paint>
+      </paintlist>
+      <handles count="5">
+        <weight channel="0x9bfe8bf8">0.323998</weight>
+        <weight channel="0x2e6521f4">0.323998</weight>
+        <weight channel="0x7cc96c02">0.233468</weight>
+        <weight channel="0x2d3bfa19">0.233468</weight>
+        <weight channel="0xd02751de">0.200000</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2b</blockid>
+      <transform>
+        <scale>0.377192</scale>
+        <position>4.352393,-4.571281,7.633678</position>
+        <triangledirection>0.649488,-0.115428,-0.751558</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.999999,-0.00121406</row1>
+          <row2>0,0.00121406,0.999999</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>0.173638,0.984809,1.63912e-7</userorientation_row0>
+          <userorientation_row1>0.649488,-0.114515,-0.751698</userorientation_row1>
+          <userorientation_row2>-0.740279,0.130524,-0.659507</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000011</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2b</blockid>
+      <transform>
+        <scale>0.377192</scale>
+        <position>4.413613,-4.494125,7.856240</position>
+        <triangledirection>0.929430,0.134176,0.343738</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1.000000,0,0</row0>
+          <row1>0,0.971332,-0.237723</row1>
+          <row2>0,0.237723,0.971332</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>-0.0252253,0.997335,-0.0684561</userorientation_row0>
+          <userorientation_row1>0.929430,0.0486147,0.365781</userorientation_row1>
+          <userorientation_row2>0.368134,-0.0543982,-0.928179</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000011</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2b</blockid>
+      <transform>
+        <scale>0.377192</scale>
+        <position>4.174326,-4.556623,7.779215</position>
+        <triangledirection>-0.917300,0.00534784,0.398158</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,5.28826e-7,-3.55271e-14</row0>
+          <row1>-5.16405e-7,0.976512,-0.215461</row1>
+          <row2>-1.13941e-7,0.215461,0.976512</row2>
+        </orientation>
+        <userorientation>
+          <userorientation_row0>0.144531,0.845167,0.514590</userorientation_row0>
+          <userorientation_row1>-0.917300,-0.0805650,0.389959</userorientation_row1>
+          <userorientation_row2>0.371038,-0.528395,0.763628</userorientation_row2>
+        </userorientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000011</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>1,1,1</color1>
+          <color2>1,1,1</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+  </blocks></sporemodel>

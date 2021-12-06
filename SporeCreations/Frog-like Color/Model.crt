@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><sporemodel>
+  <formatversion>18</formatversion>
+  <properties>
+    <modeltype>0x9ea3031a</modeltype>
+    <skineffect1>0x32fe45f6</skineffect1>
+    <skineffect2>0x58dec63b</skineffect2>
+    <skineffect3>0x0628c255</skineffect3>
+    <skineffectseed1>1234</skineffectseed1>
+    <skineffectseed2>1234</skineffectseed2>
+    <skineffectseed3>1234</skineffectseed3>
+    <skincolor1>0.415686,0.576470,0.184313</skincolor1>
+    <skincolor2>0.0509803,0.443137,0.0235294</skincolor2>
+    <skincolor3>1,1,1</skincolor3>
+    <zcorpscore>255</zcorpscore>
+  </properties>
+  <blocks count="3">
+    <blockref>
+      <blockid>0x40626000, 0xd05c53a3</blockid>
+      <transform>
+        <scale>0.75</scale>
+        <position>0,-0.0267757,0.360007</position>
+        <triangledirection>0,0.999076,0.0429670</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.999076,0.0429670</row1>
+          <row2>0,-0.0429670,0.999076</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <childlist count="1">
+        <childid>1</childid>
+      </childlist>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40626000, 0xd05c53a3</blockid>
+      <transform>
+        <scale>1.100000</scale>
+        <position>0,0.0803632,0.350638</position>
+        <triangledirection>0,0.976454,-0.215722</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.976454,-0.215722</row1>
+          <row2>0,0.215722,0.976454</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <childlist count="1">
+        <childid>2</childid>
+      </childlist>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40626000, 0x050d2812</blockid>
+      <transform>
+        <scale>0.5</scale>
+        <position>0,0.125293,-0.0454369</position>
+        <triangledirection>0,-0.346546,0.938032</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>-1,0,0</row0>
+          <row1>0,-0.346546,0.938032</row1>
+          <row2>0,0.938032,0.346546</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <handles count="3">
+        <weight channel="0xd02751de">0.466138</weight>
+        <weight channel="0x2e6521f4">0</weight>
+        <weight channel="0x7cc96c02">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+  </blocks></sporemodel>
