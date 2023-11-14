@@ -23,9 +23,10 @@ In 2021 I've started experimenting with city music and adventures. I used [Cheat
 Currently I'm working on **Skinning Objects Pack** and **Share-Safe Music** mods. :P
 
 *Feel free to contact me:*
-[![Discord: OKep#5458](https://shields.io/badge/Discord-OKер%235458-blue?logo=discord)](https://discordapp.com/users/645394358161375292)
+[![Discord: @0keponline](https://shields.io/badge/Discord-@0keponline-blue?logo=discord)](https://discordapp.com/users/645394358161375292)
 [![Google Mail: okep.and.spore@gmail.com](https://shields.io/badge/Google%20Mail-okep.and.spore@gmail.com-red?logo=gmail)](mailto:okep.and.spore@gmail.com)
-[![EA: Duka9I_CpaHb](https://shields.io/badge/EA-Duka9I__CpaHb-violet?logo=ea&logoColor=violet)](#)
+[![EA: 0KepOnline](https://shields.io/badge/EA-0KepOnline-violet?logo=ea&logoColor=violet)](#)
+[![Internet Archive: OKepWEBARC](https://shields.io/badge/Internet%20Archive-OKepWEBARC-666666?logo=internetarchive&logoColor=white)](https://archive.org/details/@okepwebarc)
 
 *My Spore profiles:*
 [![Spore: 0KepOnline](https://shields.io/badge/Spore-0KepOnline-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABK0lEQVR42p3TA6idcRiA8Xc20mzbXp6ZZmTPyp69MOTZ1kW4tm2b4dr3eat/fR2f89TvszGwr69PXJiNK3iHR1gCsbLdYTMGQbAT/2CtCAecHSAQrRBcgykCx3AQn/AcA2wP8ALaZmyAaS8GYxl2Yium2V7BOGiZEKRBu4k9qIa1dtywHmA1tK8QdEBLgqkLb3APpr+QgSJSC20HtGBoq2AaiHkIxnBEYR/OmnuJhfYEp9EKZ22HoAvN5gDjYUpHI2xrh0nwyky8xjJMRDasdcP0wPJdrMBFlAqDRGiLIZiPE7iIYJjG4Tu0wxiPycJgNCqhReEcLuI3TIch6IE21fZDGo5nsC0SqyH4Be2+q39hKNZjJ5ZiLg6gDtoHdz+TrYvQCnACYstM+KwfmJs85D6AV/sAAAAASUVORK5CYII=)](http://www.spore.com/view/myspore/0KepOnline)
