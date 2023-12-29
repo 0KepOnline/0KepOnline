@@ -4,7 +4,7 @@ My journey has started on 22th of April 2018, when I've launched Spore for the f
 
 On 29th of October I found my first real filenames, they were `physical_chorus_30sec` and `mahnamahna_loop_25sec`. Later I started searching them in expansions and even Darkspore and currently have found more than **20 000** filenames. Now they can be found in `reg_*.txt` files of [SporeModder FX](https://github.com/emd4600/SporeModder-FX).
 
-From late 2020 I'm also experimenting with the oficcial Spore site (http://spore.com). During the next years I've digged out a lot of interesting data from it.
+Since late 2020 I'm also experimenting with the oficcial Spore site (http://spore.com). During the next years I've digged out a lot of interesting data from it.
 
 In 2021 I've started experimenting with city music and adventures. I used [Cheat Engine](https://github.com/cheat-engine/cheat-engine) to change Spore values in RAM and this opened a lot of new ways to experiment for me.
 * On 15th of June I've added real Grox creations as adventure cast.
