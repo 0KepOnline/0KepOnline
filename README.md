@@ -1,26 +1,26 @@
 ## Hello! I make Spore mods and like to experiment during this.
 
-My journey has started on 22th of April 2018, when I've launched Spore for the first time. I was excited by the Model-in-Picture technology Spore uses and it became my first experimenting field then. In 2019 I helped Spore Wiki -ru with a lot of articles and became an administrator of it. I've been experimenting a lot then, in summer of 2020 me and [A-xesey](https://github.com/A-xesey) were researching Spore files every day.
+My journey has started on 22th of April 2018, when I've launched Spore for the first time. I was excited by the Model-in-Picture technology Spore uses, and it became my first experimental field then. In 2019, I helped Spore Wiki -ru with a lot of articles and became an administrator of it. I've been experimenting a lot then, in the summer of 2020, [A-xesey](https://github.com/A-xesey) and I were researching Spore files every day.
 
-On 29th of October I found my first real filenames, they were `physical_chorus_30sec` and `mahnamahna_loop_25sec`. Later I started searching them in expansions and even Darkspore and currently have found more than **20 000** filenames. Now they can be found in `reg_*.txt` files of [SporeModder FX](https://github.com/emd4600/SporeModder-FX).
+On the 29th of October, I found my first real filenames, they were `physical_chorus_30sec` and `mahnamahna_loop_25sec`. Later, I started searching them in expansions and even Darkspore, and currently have found more than **20 000** filenames. Now they can be found in `reg_*.txt` files of [SporeModder FX](https://github.com/emd4600/SporeModder-FX).
 
-Since late 2020 I'm also experimenting with the oficcial Spore site (http://spore.com). During the next years I've digged out a lot of interesting data from it.
+Since late 2020, I'm also experimenting with the oficcial Spore site (http://spore.com). During the next years, I've digged out a lot of interesting data from it.
 
-In 2021 I've started experimenting with city music and adventures. I used [Cheat Engine](https://github.com/cheat-engine/cheat-engine) to change Spore values in RAM and this opened a lot of new ways to experiment for me.
-* On 15th of June I've added real Grox creations as adventure cast.
-* On 19th of June I've changed the adventure model type to `ScenarioPlanet` and saved it as a planet template. Later that day I've modified the adventure with HEX editor and changed the terrain script of it.
-* **On the night of 19th/20th of June I found an exploit which gives the ability to select any Spore sound as an act music.**
-* On 29th of June I was playing with terrain scripts and accidentally found a way to place any Spore 3D model (with corresponding .prop file) on a planet with `terrainScriptModels` property. This method was very uncomfortable to use and I continued experimenting with 3D models placing.
-* On 3rd of July I found a way to add any planet effect using the `visualStyle` property of terrain scripts.
-* On the night of 12th/13th of July I was experimenting with `PaletteItems`. Then it helped me with making of my mods a lot.
-* **On 14th of July I found a way to add 3D models as adventure cast, using the disguise ability of gameplay effects.**
-* **On the next day I've started the making of [Skinning Objects Pack](https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack) mod.** I've used my July 12th/13th experimental project as a template for it. After a month of active development, it was abandoned for over 9 months and was revived after I've found [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer) for me.
-* **On 6th of August I've started the making of Act Music mod, which was merged with [Liskomato](https://github.com/Liskomato)'s [Share-Safe Music](https://github.com/Liskomato/Spore-ShareSafeMusic) mod on 30th of September.**
-* On 16th of September after playing with terrain scripts I added a custom planet texture with `terrainThemeAboveDetail2` property.
+In 2021, I started experimenting with city music and adventures. I used [Cheat Engine](https://github.com/cheat-engine/cheat-engine) to change Spore values in RAM and this opened a lot of new ways to experiment for me.
+* On the 15th of June, I added real Grox creations as adventure cast.
+* On the 19th of June, I changed the adventure model type to `ScenarioPlanet` and saved it as a planet template. Later that day I've modified the adventure with the HEX editor and changed the terrain script of it.
+* **On the night of 19th/20th of June, I found an exploit which gives the ability to select any Spore sound as an act music.**
+* On the 29th of June, I was playing with terrain scripts and accidentally found a way to place any Spore 3D model (with corresponding .prop file) on a planet with `terrainScriptModels` property. This method was very uncomfortable to use, and I continued experimenting with placing 3D models.
+* On the 3rd of July, I found a way to add any planet effect using the `visualStyle` property of terrain scripts.
+* On the night of 12th/13th of July, I was experimenting with `PaletteItems`. Then it helped me with making of my mods a lot.
+* **On the 14th of July, I found a way to add 3D models as adventure cast, using the disguise ability of gameplay effects.**
+* **On the next day, I started making the [Skinning Objects Pack](https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack) mod.** I've used my July 12th/13th experimental project as a template for it. After a month of active development, it was abandoned for over 9 months and was revived after I found [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer) for me.
+* **On the 6th of August, I started making the Act Music mod, which was merged with [Liskomato](https://github.com/Liskomato)'s [Share-Safe Music](https://github.com/Liskomato/Spore-ShareSafeMusic) mod on the 30th of September.**
+* On the 16th of September, after playing with terrain scripts, I added a custom planet texture with `terrainThemeAboveDetail2` property.
 
 **[My first mod was published on 26th of October. It fixes a hidden Cake Editor.](https://github.com/0KepOnline/SPOREMod_CakeEditor)**
 
-Currently I'm working on **Skinning Objects Pack** and **Share-Safe Music** mods. :P
+Currently, I'm working on **Skinning Objects Pack** and **Share-Safe Music** mods. :P
 
 *Feel free to contact me:*
 [![Discord: @0keponline](https://shields.io/badge/Discord-@0keponline-blue?logo=discord)](https://discordapp.com/users/645394358161375292)
@@ -36,6 +36,8 @@ Currently I'm working on **Skinning Objects Pack** and **Share-Safe Music** mods
 
 ---
 
-[![Liskomato and 0KepOnline's Share-Safe Music](https://github.com/Liskomato/Spore-ShareSafeMusic/raw/main/ShareSafeMusic.png)](https://github.com/Liskomato/Spore-ShareSafeMusic)
-
-[![0KepOnline's Skinning Objects Pack](https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack/raw/main/0KepOnlineObjectsPack.png)](https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack)
+<div align="center">
+    <a href="https://github.com/Liskomato/Spore-ShareSafeMusic"><img alt="Liskomato and 0KepOnline's Share-Safe Music" src="https://github.com/Liskomato/Spore-ShareSafeMusic/raw/main/ShareSafeMusic.png" /></a>
+    <a href="https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack"><img alt="0KepOnline's Skinning Objects Pack" src="https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack/raw/main/0KepOnlineObjectsPack.png" /></a>
+    <a href="https://github.com/0KepOnline/SPOREMod_AdventureCastThumbnails"><img alt="0KepOnline's Adventure Cast Thumbnails" src="https://github.com/0KepOnline/SPOREMod_AdventureCastThumbnails/raw/main/0KepOnlineScenarioCastThumbnails.png" width="720" /></a>
+</div>
