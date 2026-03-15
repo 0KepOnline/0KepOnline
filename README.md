@@ -1,10 +1,10 @@
 ## Hello! I make Spore mods and like to experiment during this.
 
-My journey has started on 22th of April 2018, when I've launched Spore for the first time. I was excited by the Model-in-Picture technology Spore uses, and it became my first experimental field then. In 2019, I helped Spore Wiki -ru with a lot of articles and became an administrator of it. I've been experimenting a lot then, in the summer of 2020, [A-xesey](https://github.com/A-xesey) and I were researching Spore files every day.
+My journey started on the 22nd of April 2018, when I launched Spore for the first time. I was excited by the Model-in-Picture technology Spore uses, and it became my first experimental field then. In 2019, I helped Spore Wiki -ru with a lot of articles and became an administrator of it. I've been experimenting a lot then, in the summer of 2020, [A-xesey](https://github.com/A-xesey) and I were researching Spore files every day.
 
 On the 29th of October, I found my first real filenames, they were `physical_chorus_30sec` and `mahnamahna_loop_25sec`. Later, I started searching them in expansions and even Darkspore, and currently have found more than **20 000** filenames. Now they can be found in `reg_*.txt` files of [SporeModder FX](https://github.com/emd4600/SporeModder-FX).
 
-Since late 2020, I'm also experimenting with the oficcial Spore site (http://spore.com). During the next years, I've digged out a lot of interesting data from it.
+Since late 2020, I've also been experimenting with the official Spore site (http://spore.com). During the next few years, I've dug out a lot of interesting data from it.
 
 In 2021, I started experimenting with city music and adventures. I used [Cheat Engine](https://github.com/cheat-engine/cheat-engine) to change Spore values in RAM and this opened a lot of new ways to experiment for me.
 * On the 15th of June, I added real Grox creations as adventure cast.
